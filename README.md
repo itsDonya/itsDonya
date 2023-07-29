@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Questrial&size=22&duration=4000&pause=800&color=22F760&width=600&height=60&lines=Hi+there+%3A);I'm+Donya+Davoodi+...;A+passionate+front-end+developer;Feel+free+to+look+around+my+caringly-crafted+portfolio+%3A)" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=24&duration=4000&pause=800&color=BC00CCFF&width=1000&height=60&lines=Hi+there+%3A);I'm+Donya+Davoodi+...;A+passionate+front-end+developer;Feel+free+to+look+around+my+caringly-crafted+portfolio+%3A)" alt="Typing SVG" /></a>
 ---
 <h3><strong>💻 Languages, Frameworks and Tools that I currently know</strong></h3>
 <p float="left">
