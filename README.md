@@ -19,10 +19,3 @@
 <img style="padding:5px;" align="center" width="30px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
 <img style="padding:5px;" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/>
 </p>
-
----
-
-<img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsDonya&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
-/>
