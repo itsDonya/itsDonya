@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=24&duration=4000&pause=800&color=BC00CCFF&width=1000&height=60&lines=Hi+there+%3A);I'm+Donya+Davoodi+...;A+passionate+front-end+developer;Feel+free+to+look+around+my+caringly-crafted+portfolio+%3A)" alt="Typing SVG" /></a>
 ---
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30824%26project%3D%26in=0)](https://codetime.dev)
+---
 <h3><strong>💻 Languages, Frameworks and Tools that I currently know</strong></h3>
 <p float="left">
 <img style="padding:5px;" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
